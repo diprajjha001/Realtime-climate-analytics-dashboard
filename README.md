@@ -54,8 +54,45 @@ The dataset includes weather observations such as:
 
 ---
 
-# 📏 Measures (DAX)
+## 📊 Dashboard Features
 
-### Average Temperature
-```DAX
-Avg Temperature = AVERAGE(Weather[Temperature])
+✔ Interactive filters
+✔ Dynamic KPIs
+✔ Time-series weather analysis
+✔ Location-based insights
+✔ Clean and modern UI
+
+📷 Dashboard Preview
+
+Add screenshots of your dashboard here.
+
+<img width="863" height="484" alt="image" src="https://github.com/user-attachments/assets/f96294bf-dd3e-4795-9987-c01a112c37b7" />
+
+
+📌 Insights Generated
+
+- Identified temperature variation across time.
+- Observed correlation between humidity and weather conditions.
+- Highlighted peak wind speed periods.
+- Seasonal weather pattern detection.
+
+  🚀 How to Use
+
+- Download the .pbix file.
+- Open it using Microsoft Power BI Desktop.
+- Refresh the dataset if needed.
+- Interact with filters and visuals.
+
+📁 Project Structure
+Weather-Dashboard
+│
+├── weather dashboard.pbix
+├── dataset
+├── dashboard screenshots
+└── README.md
+
+👨‍💻 Author
+Dipraj Jha
+Data Analyst
+Power BI Developer
+LinkedIn: www.linkedin.com/in/dipraj-jha
